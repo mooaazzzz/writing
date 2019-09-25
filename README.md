@@ -1,6 +1,6 @@
 ## In your Activity class:
 
-// boolean check the touch on the canvas
+> // boolean check the touch on the canvas
 
 CanvasView canvasView = new CanvasView(context, boolean , penColor);
         relativeLayout.addView(canvasView);
