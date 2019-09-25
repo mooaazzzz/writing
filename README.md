@@ -9,9 +9,9 @@ CanvasView canvasView = new CanvasView(context, boolean , penColor);
 
 ## In your build.gradle file:
 
-dependencies {
+[ dependencies {
   implementation 'com.github.mooaazzzz:writing:1.0.1'
-}
+} ] 
 
 ## In your project.gradle
 allprojects {
